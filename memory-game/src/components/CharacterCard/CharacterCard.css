@@ -1,0 +1,31 @@
+.card{
+    width: 15%;
+    height: 150px;
+    display: inline-flex;
+    background-color: rgb(125, 125, 248);
+    text-align: center;
+    margin: 1%;
+    border: solid 8px rgb(255, 255, 99);
+    box-shadow: 0 0 20px rgb(0, 0, 0);
+    overflow: hidden;
+}
+
+.card:active{
+    width: 14%;
+    box-shadow: 0 0 0 rgb(255, 255, 99);
+}
+
+.card:hover{
+    border: solid 8px rgb(255, 99, 99);
+}
+
+.card > .image-container > img{
+    width: 50%;
+    /* height: 80%; */
+    display: block;
+    margin: 20px auto;
+}
+
+.card > h4{
+    display: block;
+}

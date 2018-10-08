@@ -1,0 +1,78 @@
+[
+    {
+        "id": 0,
+        "name": "Homer Simpson",
+        "image":"https://upload.wikimedia.org/wikipedia/en/0/02/Homer_Simpson_2006.png"
+    },
+    {
+        "id": 1,
+        "name": "Marge Simpson",
+        "image":"https://upload.wikimedia.org/wikipedia/en/0/0b/Marge_Simpson.png"
+    },
+    {
+        "id": 2,
+        "name": "Bart Simpson",
+        "image": "https://upload.wikimedia.org/wikipedia/en/a/aa/Bart_Simpson_200px.png"
+    },
+    {
+        "id": 3,
+        "name": "Lisa Simpson",
+        "image": "https://upload.wikimedia.org/wikipedia/en/e/ec/Lisa_Simpson.png"
+    },
+    {
+        "id": 4,
+        "name": "Maggie Simpson",
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/9d/Maggie_Simpson.png"
+    },
+    {
+        "id": 5,
+        "name": "Abe Simpson",
+        "image": "https://upload.wikimedia.org/wikipedia/en/3/3e/Abe_Simpson.png" 
+    },
+    {
+        "id": 6,
+        "name": "C. Montgomery Burns",
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/56/Mr_Burns.png"
+    },
+    {
+        "id": 7,
+        "name": "Ned Flanders",
+        "image": "https://upload.wikimedia.org/wikipedia/en/8/84/Ned_Flanders.png"
+    },
+    {
+        "id": 8,
+        "name": "Milhouse Van Houten",
+        "image": "https://upload.wikimedia.org/wikipedia/en/8/8d/Milhouse.PNG"
+    },
+    {
+        "id": 9,
+        "name": "Ralph Wiggum",
+        "image": "https://upload.wikimedia.org/wikipedia/en/1/14/Ralph_Wiggum.png"
+    },
+    {
+        "id": 10,
+        "name": "Apu Nahasapeemapetilon",
+        "image": "https://upload.wikimedia.org/wikipedia/en/2/23/Apu_Nahasapeemapetilon_%28The_Simpsons%29.png"
+    },
+    {
+        "id": 11,
+        "name": "Nelson Muntz",
+        "image": "https://upload.wikimedia.org/wikipedia/en/c/c6/Nelson_Muntz.PNG"
+    },
+    {
+        "id": 12,
+        "name": "Moe Szyslak",
+        "image": "https://upload.wikimedia.org/wikipedia/en/8/80/Moe_Szyslak.png"
+    },
+    {
+        "id": 13,
+        "name": "Krusty the Clown",
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/5a/Krustytheclown.png"
+    },
+    {
+        "id": 14,
+        "name": "Waylon Smithers",
+        "image": "https://upload.wikimedia.org/wikipedia/en/8/86/Waylon_Smithers_1.png"
+    }
+]
+  
