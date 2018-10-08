@@ -8,6 +8,7 @@
     border: solid 8px rgb(255, 255, 99);
     box-shadow: 0 0 20px rgb(0, 0, 0);
     overflow: hidden;
+    border-radius: 10px;
 }
 
 .card:active{
@@ -15,9 +16,7 @@
     box-shadow: 0 0 0 rgb(255, 255, 99);
 }
 
-.card:hover{
-    border: solid 8px rgb(255, 99, 99);
-}
+
 
 .card > .image-container > img{
     width: 50%;
@@ -28,4 +27,24 @@
 
 .card > h4{
     display: block;
+}
+
+@media only screen and (max-width: 600px) {
+    .card{
+        width: 25%;
+        height: 80px;
+        border: solid 4px rgb(255, 255, 99);
+    }
+    .card:active{
+        width: 24%;
+        box-shadow: 0 0 0 rgb(255, 255, 99);
+    }
+
+}
+
+@media only screen and (min-width: 601px) {
+    .card:hover{
+        border: solid 8px rgb(255, 99, 99);
+    }
+
 }
